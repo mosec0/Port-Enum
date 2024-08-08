@@ -7,7 +7,7 @@ from datetime import datetime
 #Banner
 ascii_banner = pyfiglet.figlet_format(" PORT ENUM")
 print(ascii_banner)
-print("  # Coded By Mohamed-Ali @mohamed-ali101")
+print("  # Coded By Mohamed-Ali @mosec0")
 
 
 target = input(str(" [+] Target IP: " ))
